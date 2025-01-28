@@ -26,3 +26,8 @@ ________________________________________________________________________________
 ## 🌐 Conecte-se Comigo
 
 - **[LinkedIn] https://www.linkedin.com/in/maysa-soares-a453b9281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+  ---
+## 🎨 Imagens
+
+https://github.com/Maysa-Soares/TDSB/blob/91caa9b34dc9575116c8aebd0454416831acdff1/RelatorioDeVenda.png
+_Visualização dos dados de vendas utilizando Microsoft Power BI._
